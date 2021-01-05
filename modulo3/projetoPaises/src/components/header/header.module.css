@@ -1,0 +1,10 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.info {
+  width: 170px;
+  margin: 0px 10px;
+}

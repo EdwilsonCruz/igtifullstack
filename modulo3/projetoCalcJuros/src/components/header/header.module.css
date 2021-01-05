@@ -1,0 +1,19 @@
+.flexRow {
+  display: inline-table;
+}
+
+.cardCenter {
+  margin: auto 5px;
+}
+
+.card {
+  border: 1px solid #8989;
+  width: 20%;
+  height: 80px;
+  border-radius: 5px;
+  display: flex;
+}
+.cardHeader {
+  display: inline-grid;
+  padding: 5px;
+}

@@ -1,5 +1,8 @@
 # dependencies
 /node_modules
+modulo3/projetoCalcJuros/node_modules/
+modulo3/projetoPaises/node_modules/
+
 /.pnp
 .pnp.js
 
