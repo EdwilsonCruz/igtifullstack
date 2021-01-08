@@ -2,6 +2,8 @@
 /node_modules
 modulo3/projetoCalcJuros/node_modules/
 modulo3/projetoPaises/node_modules/
+modulo4/desafio-final-full-stack/mongodb-import/.*
+modulo4/desafio-final-full-stack/app/.*
 
 
 /.pnp
